@@ -4,8 +4,6 @@ import "fmt"
 
 // "math"
 
-// const s string = "constant"
-
 func main() {
 
 	var a [5]int
